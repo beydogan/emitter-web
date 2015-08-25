@@ -1,7 +1,7 @@
 # Emitter-web
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+A Twitter clone built with EmberJS and Rails. This repo is Ember application.
+
 
 ## Prerequisites
 

@@ -1,0 +1,10 @@
+{{input type="text" value=username}}
+{{input type="password" value=password}}
+
+<input type='button' value='Login' {{action "login"}}>
+
+{{#if errorMsg}}
+	<div class="alert alert-error">
+		{{errorMsg}}
+	</div>
+{{/if}}
